@@ -1,0 +1,16 @@
+C:\Users\ethan\source\repos\SharpLock\SharpLock\bin\Debug\net5.0\SharpLock.exe
+C:\Users\ethan\source\repos\SharpLock\SharpLock\bin\Debug\net5.0\SharpLock.deps.json
+C:\Users\ethan\source\repos\SharpLock\SharpLock\bin\Debug\net5.0\SharpLock.runtimeconfig.json
+C:\Users\ethan\source\repos\SharpLock\SharpLock\bin\Debug\net5.0\SharpLock.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\SharpLock\SharpLock\bin\Debug\net5.0\SharpLock.dll
+C:\Users\ethan\source\repos\SharpLock\SharpLock\bin\Debug\net5.0\ref\SharpLock.dll
+C:\Users\ethan\source\repos\SharpLock\SharpLock\bin\Debug\net5.0\SharpLock.pdb
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.AssemblyInfo.cs
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.dll
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\ref\SharpLock.dll
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.pdb
+C:\Users\ethan\source\repos\SharpLock\SharpLock\obj\Debug\net5.0\SharpLock.genruntimeconfig.cache
